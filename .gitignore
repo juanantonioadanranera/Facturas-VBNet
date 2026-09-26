@@ -1,0 +1,29 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# NuGet
+packages/
+*.nupkg
+
+# Visual Studio upgrade files
+_UpgradeReport_Files/
+UpgradeLog*
+
+# Temporary files
+*.tmp
+*.log
+*.cache
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
